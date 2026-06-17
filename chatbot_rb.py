@@ -1,7 +1,3 @@
-"""
-Original file is located at --> https://colab.research.google.com/drive/1eRbMPtVaOJVEe0vJjBCiu0K0--T1emBz
-
-"""
 
 import re
 from datetime import datetime
